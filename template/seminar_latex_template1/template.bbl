@@ -1,0 +1,200 @@
+\begin{thebibliography}{25}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[yxc()]{yxcv}
+{Linux Foundation. OPNFV}.
+\newblock URL \url{https://www.opnfv.org/}.
+
+\bibitem[Ram(2013)]{Ram2013}
+{Hyper-Switch: A Scalable Software Virtual Switching Architecture}.
+\newblock \emph{Atc '13}, pages 13--24, 2013.
+\newblock URL
+  \url{https://www.usenix.org/conference/atc13/technical-sessions/presentation/ram}.
+
+\bibitem[Anderson et~al.(2012)Anderson, Braud, Kapoor, Porter, and
+  Vahdat]{Anderson2012}
+James~W. Anderson, Ryan Braud, Rishi Kapoor, George Porter, and Amin Vahdat.
+\newblock {xOMB: extensible open middleboxes with commodity servers}.
+\newblock In \emph{Proceedings of the eighth ACM/IEEE symposium on
+  Architectures for networking and communications systems - ANCS '12}, page~49.
+  ACM Press, 2012.
+\newblock URL \url{http://dl.acm.org/citation.cfm?doid=2396556.2396566}.
+
+\bibitem[Corporation(2014)]{Corporation2014}
+Intel Corporation.
+\newblock {Intel {\textregistered} Data Plane Development Kit}.
+\newblock \penalty0 (June), 2014.
+\newblock URL \url{https://www.dpdk.org/}.
+
+\bibitem[Duan et~al.(2019)Duan, Yi, Wang, Wu, and Le]{Duan2019}
+Jingpu Duan, Xiaodong Yi, Junjie Wang, Chuan Wu, and Franck Le.
+\newblock {NetStar: A Future/Promise Framework for Asynchronous Network
+  Functions}.
+\newblock \emph{IEEE Journal on Selected Areas in Communications}, 37\penalty0
+  (3):\penalty0 600--612, mar 2019.
+\newblock URL \url{https://ieeexplore.ieee.org/document/8635508/}.
+
+\bibitem[ETSI(2012)]{ETSI2012}
+ETSI.
+\newblock {Network Functions Virtualisation,An Introduction, Benefits,
+  Enablers, Challenges {\&} Call for Action}.
+\newblock Technical Report~1, 2012.
+\newblock URL \url{http://portal.etsi.org/NFV/NFV_White_Paper.pdf}.
+
+\bibitem[Honda et~al.(2015)Honda, Huici, Lettieri, and Rizzo]{Honda2015}
+Michio Honda, Felipe Huici, Giuseppe Lettieri, and Luigi Rizzo.
+\newblock {mSwitch: a highly-scalable, modular software switch}.
+\newblock In \emph{Proceedings of the 1st ACM SIGCOMM Symposium on Software
+  Defined Networking Research - SOSR '15}, pages 1--13. ACM Press, 2015.
+\newblock URL \url{http://dl.acm.org/citation.cfm?doid=2774993.2775065}.
+
+\bibitem[Hwang et~al.(2015)Hwang, Ramakrishnan, and Wood]{Hwang2015}
+Jinho Hwang, K.~K. Ramakrishnan, and Timothy Wood.
+\newblock {NetVM: High performance and flexible networking using virtualization
+  on commodity platforms}.
+\newblock \emph{IEEE Transactions on Network and Service Management},
+  12\penalty0 (1):\penalty0 34--47, mar 2015.
+\newblock URL \url{http://ieeexplore.ieee.org/document/7036139/}.
+
+\bibitem[Kohler et~al.(2000)Kohler, Morris, Chen, Jannotti, and
+  Kaashoek]{Kohler2000}
+Eddie Kohler, Robert Morris, Benjie Chen, John Jannotti, and M.~Frans Kaashoek.
+\newblock {The click modular router}.
+\newblock \emph{ACM Transactions on Computer Systems}, 18\penalty0
+  (3):\penalty0 263--297, aug 2000.
+\newblock URL \url{http://portal.acm.org/citation.cfm?doid=354871.354874}.
+
+\bibitem[Mao et~al.(2019)Mao, Shen, and Huang]{Mao2019}
+Wei Mao, Zhen Shen, and Xiaolong Huang.
+\newblock {Facilitating Network Functions Virtualization by Exploring Locality
+  in Network Traffic}.
+\newblock In \emph{Proceedings of the 2018 2nd International Conference on
+  Computer Science and Artificial Intelligence - CSAI '18}, pages 495--499. ACM
+  Press, 2019.
+\newblock URL \url{http://dl.acm.org/citation.cfm?doid=3297156.3297247}.
+
+\bibitem[Martins et~al.(2014)Martins, Ahmed, Raiciu, Olteanu, Honda, Bifulco,
+  Huici, and Nsdi]{Martins2014}
+Joao Martins, Mohamed Ahmed, Costin Raiciu, Vladimir Olteanu, Michio Honda,
+  Roberto Bifulco, Felipe Huici, and Implementation Nsdi.
+\newblock {ClickOS and the Art of Network Function Virtualization}.
+\newblock pages 459--473, 2014.
+\newblock \doi{10.1007/978-3-642-38703-6_48}.
+\newblock URL
+  \url{https://www.usenix.org/conference/nsdi14/technical-sessions/presentation/martins}.
+
+\bibitem[McKeen et~al.(2013)McKeen, Alexandrovich, Berenzon, Rozas, Shafi,
+  Shanbhogue, and Savagaonkar]{McKeen2013}
+Frank McKeen, Ilya Alexandrovich, Alex Berenzon, Carlos~V. Rozas, Hisham Shafi,
+  Vedvyas Shanbhogue, and Uday~R. Savagaonkar.
+\newblock {Innovative instructions and software model for isolated execution}.
+\newblock pages 1--1, 2013.
+\newblock URL
+  \url{https://www.eit.lth.se/fileadmin/eit/courses/eitn50/Literature/hasp-2013-innovative-instructions-and-software-model-for-isolated-execution.pdf}.
+
+\bibitem[Naik et~al.(2017)Naik, Kanase, Patel, and Vutukuru]{Naik2017}
+Priyanka Naik, Akash Kanase, Trishal Patel, and Mythili Vutukuru.
+\newblock {libVNF: A Framework for Building Scalable High Performance Virtual
+  Network Functions}.
+\newblock In \emph{Proceedings of the 8th Asia-Pacific Workshop on Systems -
+  APSys '17}, pages 212--224. ACM Press, 2017.
+\newblock URL \url{http://dl.acm.org/citation.cfm?doid=3124680.3124728}.
+
+\bibitem[Panda et~al.(2016)Panda, Han, Jang, Walls, Ratnasamy, and
+  Shenker]{Panda2016}
+Aurojit Panda, Sangjin Han, Keon Jang, Melvin Walls, Sylvia Ratnasamy, and
+  Scott Shenker.
+\newblock {NetBricks: Taking the V out of NFV.}
+\newblock In \emph{OSDI'16}, pages 203--216, 2016.
+\newblock URL
+  \url{https://www.usenix.org/conference/osdi16/technical-sessions/presentation/panda}.
+
+\bibitem[Philippov and Melik-Adamyan(2017)]{Philippov2017}
+Ilya Philippov and Areg Melik-Adamyan.
+\newblock {Novel approach to network function development}.
+\newblock In \emph{Proceedings of the 13th Central {\&} Eastern European
+  Software Engineering Conference in Russia on - CEE-SECR '17}, pages 1--6. ACM
+  Press, 2017.
+\newblock URL \url{http://dl.acm.org/citation.cfm?doid=3166094.3166111}.
+
+\bibitem[Poddar et~al.(2018)Poddar, Lan, Popa, and Ratnasamy]{Poddar2018}
+Rishabh Poddar, Chang Lan, Raluca~Ada Popa, and Sylvia Ratnasamy.
+\newblock {SafeBricks: Shielding Network Functions in the Cloud}, 2018.
+\newblock URL
+  \url{https://www.usenix.org/conference/nsdi18/presentation/poddar}.
+
+\bibitem[Sekar et~al.(2012{\natexlab{a}})Sekar, Egi, Ratnasamy, Reiter, and
+  Shi]{Sekar2012}
+Vyas Sekar, Norbert Egi, Sylvia Ratnasamy, Michael~K. Reiter, and Guangyu Shi.
+\newblock {Design and Implementation of a Consolidated Middlebox Architecture}.
+\newblock In \emph{Proc. USENIX NSDI}, page~24, 2012{\natexlab{a}}.
+\newblock URL
+  \url{https://www.usenix.org/conference/nsdi12/technical-sessions/presentation/sekar}.
+
+\bibitem[Sekar et~al.(2012{\natexlab{b}})Sekar, Egi, Ratnasamy, Reiter, and
+  Shi]{Sekar2012a}
+Vyas Sekar, Norbert Egi, Sylvia Ratnasamy, Michael~K. Reiter, and Guangyu Shi.
+\newblock {Design and Implementation of a Consolidated Middlebox Architecture}.
+\newblock In \emph{Proc. USENIX NSDI}, page~24, 2012{\natexlab{b}}.
+\newblock URL
+  \url{https://www.usenix.org/conference/nsdi12/technical-sessions/presentation/sekar}.
+
+\bibitem[Thadani(1995)]{Thadani1995}
+MN~Thadani.
+\newblock {An efficient zero-copy I/O framework for UNIX}.
+\newblock Technical Report May, 1995.
+\newblock URL \url{https://dl.acm.org/citation.cfm?id=974947}.
+
+\bibitem[{The Rust Team}(2016)]{TheRustTeam2016}
+{The Rust Team}.
+\newblock {Rust Programming Language}, 2016.
+\newblock URL \url{https://www.rust-lang.org/}.
+
+\bibitem[Wu and Zhang(2017)]{Wu2017}
+Wenfei Wu and Ying Zhang.
+\newblock {Network function modeling and its applications}.
+\newblock \emph{IEEE Internet Computing}, 21\penalty0 (4):\penalty0 82--86,
+  2017.
+\newblock URL \url{http://ieeexplore.ieee.org/document/7994546/}.
+
+\bibitem[Yaghoubi et~al.(2012)Yaghoubi, Barazi, and Reza]{Yaghoubi2012}
+Hamid Yaghoubi, Nariman Barazi, and Mohammad Reza.
+\newblock {Maglev: A Fast and Reliable Software Network Load Balancer }.
+\newblock In \emph{Infrastructure Design, Signalling and Security in Railway},
+  pages 523--535. 2012.
+\newblock URL
+  \url{https://www.usenix.org/conference/nsdi16/technical-sessions/presentation/eisenbud}.
+
+\bibitem[Yasukata et~al.(2017)Yasukata, Huici, Maffione, Lettieri, and
+  Honda]{Yasukata2017}
+Kenichi Yasukata, Felipe Huici, Vincenzo Maffione, Giuseppe Lettieri, and
+  Michio Honda.
+\newblock {HyperNF: building a high performance, high utilization and fair NFV
+  platform}.
+\newblock In \emph{Proceedings of the 2017 Symposium on Cloud Computing - SoCC
+  '17}, pages 157--169. ACM Press, 2017.
+\newblock URL \url{http://dl.acm.org/citation.cfm?doid=3127479.3127489}.
+
+\bibitem[Yurchenko et~al.(2018)Yurchenko, Cody, Coplan, Kennedy, Wood, and
+  Ramakrishnan]{Yurchenko2018}
+Mykola Yurchenko, Patrick Cody, Aaron Coplan, Riley Kennedy, Timothy Wood, and
+  K.~K. Ramakrishnan.
+\newblock {OpenNetVM}.
+\newblock In \emph{Proceedings of the 2016 workshop on Hot topics in
+  Middleboxes and Network Function Virtualization}, pages 1--2. ACM, 2018.
+\newblock URL \url{https://dl.acm.org/citation.cfm?id=2940155}.
+
+\bibitem[Zhang et~al.(2018)Zhang, He, Wang, Hua, Meng, Design, and
+  Nsdi]{Zhang2018}
+Kai Zhang, Bingsheng He, Zeke Wang, Bei Hua, Jiayi Meng, Systems Design, and
+  Implementation Nsdi.
+\newblock {G-NET : Effective GPU Sharing in NFV Systems}.
+\newblock 2018.
+\newblock URL
+  \url{https://www.usenix.org/conference/nsdi18/presentation/zhang-kai}.
+
+\end{thebibliography}

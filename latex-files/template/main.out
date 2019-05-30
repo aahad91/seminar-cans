@@ -1,0 +1,33 @@
+\BOOKMARK [1][-]{section.1}{Introduction }{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{Problem Statment}{section.1}% 2
+\BOOKMARK [2][-]{subsection.1.2}{Available Solutions}{section.1}% 3
+\BOOKMARK [1][-]{section.2}{Background}{}% 4
+\BOOKMARK [2][-]{subsection.2.1}{NFV}{section.2}% 5
+\BOOKMARK [2][-]{subsection.2.2}{VNF}{section.2}% 6
+\BOOKMARK [2][-]{subsection.2.3}{NF Chains}{section.2}% 7
+\BOOKMARK [2][-]{subsection.2.4}{Programming VNF}{section.2}% 8
+\BOOKMARK [2][-]{subsection.2.5}{Isolation}{section.2}% 9
+\BOOKMARK [3][-]{subsubsection.2.5.1}{Memory Isolation}{subsection.2.5}% 10
+\BOOKMARK [3][-]{subsubsection.2.5.2}{Packet Isolation}{subsection.2.5}% 11
+\BOOKMARK [1][-]{section.3}{Proposed Framework}{}% 12
+\BOOKMARK [2][-]{subsection.3.1}{Overview}{section.3}% 13
+\BOOKMARK [2][-]{subsection.3.2}{Main Components}{section.3}% 14
+\BOOKMARK [2][-]{subsection.3.3}{Framework}{section.3}% 15
+\BOOKMARK [3][-]{subsubsection.3.3.1}{Development Model}{subsection.3.3}% 16
+\BOOKMARK [3][-]{subsubsection.3.3.2}{Execution model}{subsection.3.3}% 17
+\BOOKMARK [2][-]{subsection.3.4}{Testing}{section.3}% 18
+\BOOKMARK [2][-]{subsection.3.5}{Analysis Tool}{section.3}% 19
+\BOOKMARK [2][-]{subsection.3.6}{Testbed}{section.3}% 20
+\BOOKMARK [2][-]{subsection.3.7}{Achieved Results}{section.3}% 21
+\BOOKMARK [2][-]{subsection.3.8}{Overheads}{section.3}% 22
+\BOOKMARK [1][-]{section.4}{Framework Evaluation}{}% 23
+\BOOKMARK [2][-]{subsection.4.1}{Performance analysis of framework based different NFs}{section.4}% 24
+\BOOKMARK [3][-]{subsubsection.4.1.1}{Throughput/mpps}{subsection.4.1}% 25
+\BOOKMARK [2][-]{subsection.4.2}{Security Analysis}{section.4}% 26
+\BOOKMARK [3][-]{subsubsection.4.2.1}{NF vs NF Chains Isolation}{subsection.4.2}% 27
+\BOOKMARK [1][-]{section.5}{Comparison of Frameworks}{}% 28
+\BOOKMARK [2][-]{subsection.5.1}{Based on Packet/Memory Isolation}{section.5}% 29
+\BOOKMARK [2][-]{subsection.5.2}{Discuss new and old Frameworks Introduced}{section.5}% 30
+\BOOKMARK [2][-]{subsection.5.3}{Conclusion Drawn }{section.5}% 31
+\BOOKMARK [1][-]{section.6}{Future Work}{}% 32
+\BOOKMARK [1][-]{section*.1}{References}{}% 33
