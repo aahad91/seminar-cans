@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.4.12)  7 MAY 2019 19:07
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.4.12)  19 JUN 2019 04:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -749,20 +749,20 @@ Package: xargs 2008/03/22 v1.1  extended macro definitions  (mpg)
 ) (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 416.
-LaTeX Font Info:    ... okay on input line 416.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 416.
-LaTeX Font Info:    ... okay on input line 416.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 416.
-LaTeX Font Info:    ... okay on input line 416.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 416.
-LaTeX Font Info:    ... okay on input line 416.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 416.
-LaTeX Font Info:    ... okay on input line 416.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 416.
-LaTeX Font Info:    ... okay on input line 416.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 416.
-LaTeX Font Info:    ... okay on input line 416.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 415.
+LaTeX Font Info:    ... okay on input line 415.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 415.
+LaTeX Font Info:    ... okay on input line 415.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 415.
+LaTeX Font Info:    ... okay on input line 415.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 415.
+LaTeX Font Info:    ... okay on input line 415.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 415.
+LaTeX Font Info:    ... okay on input line 415.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 415.
+LaTeX Font Info:    ... okay on input line 415.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 415.
+LaTeX Font Info:    ... okay on input line 415.
 
 -- Lines per column: 56 (exact).
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
@@ -800,7 +800,7 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
 \AtBeginShipoutBox=\box44
-Package hyperref Info: Link coloring OFF on input line 416.
+Package hyperref Info: Link coloring OFF on input line 415.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -810,9 +810,9 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count164
 )
-LaTeX Info: Redefining \ref on input line 416.
-LaTeX Info: Redefining \pageref on input line 416.
-LaTeX Info: Redefining \nameref on input line 416.
+LaTeX Info: Redefining \ref on input line 415.
+LaTeX Info: Redefining \pageref on input line 415.
+LaTeX Info: Redefining \nameref on input line 415.
 
 (./main.out) (./main.out)
 \@outlinefile=\write4
@@ -823,41 +823,173 @@ LaTeX Info: Redefining \nameref on input line 416.
 Package todonotes Warning: The length marginparwidth is less than 2cm and will 
 most likely cause issues with the appearance of inserted todonotes. The issue c
 an be solved by adding a line like \setlength {\marginparwidth }{2cm} prior to 
-loading the todonotes package. on input line 416.
+loading the todonotes package. on input line 415.
 
-LaTeX Font Info:    Calculating math sizes for size <11> on input line 444.
-LaTeX Font Info:    Try loading font information for U+msa on input line 444.
+LaTeX Font Info:    Calculating math sizes for size <11> on input line 443.
+LaTeX Font Info:    Try loading font information for U+msa on input line 443.
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 444.
+LaTeX Font Info:    Try loading font information for U+msb on input line 443.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Underfull \hbox (badness 10000) in paragraph at lines 477--479
- \OT1/ptm/m/it/10 2) Packet Iso-la-tion: [][][] \OT1/ptm/m/n/10 High Per-for-
- []
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 466.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 477--479
-\OT1/ptm/m/n/10 mance I/O li-braries for Packet Pro-cess-ing
- []
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 477.
 
-(./main.bbl
-LaTeX Font Info:    Try loading font information for OMS+ptm on input line 63.
- (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omsptm.fd
-File: omsptm.fd 
-)
-LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <8> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 63.
- [1{/usr/share/texlive/texmf-dist/fonts/map/pdftex/updmap/pdftex.map}
+[1{/usr/share/texlive/texmf-dist/fonts/map/pdftex/updmap/pdftex.map}
 
 
 ]
-Overfull \hbox (21.87378pt too wide) in paragraph at lines 217--222
-\OT1/ptm/m/n/8 hasp-[]2013-[]innovative-[]instructions-[]and-[]software-[]model
--[]for-[]isolated-[]execution .
+<figures/fig1.png, id=184, 1090.0725pt x 177.66376pt>
+File: figures/fig1.png Graphic file (type png)
+<use figures/fig1.png>
+Package pdftex.def Info: figures/fig1.png  used on input line 482.
+(pdftex.def)             Requested size: 252.0pt x 41.07054pt.
+ [2 <./figures/fig1.png>]
+Underfull \hbox (badness 2111) in paragraph at lines 527--534
+\OT1/ptm/b/n/10 Shuffle: \OT1/ptm/m/n/10 This op-er-a-tion adds ad-di-tional fu
+nc-tion-al-ity to
+ []
+
+[3]
+<figures/fig2.png, id=237, 652.4375pt x 359.3425pt>
+File: figures/fig2.png Graphic file (type png)
+<use figures/fig2.png>
+Package pdftex.def Info: figures/fig2.png  used on input line 558.
+(pdftex.def)             Requested size: 252.0pt x 138.79416pt.
+<figures/fig3.png, id=239, 784.9325pt x 131.49126pt>
+File: figures/fig3.png Graphic file (type png)
+<use figures/fig3.png>
+Package pdftex.def Info: figures/fig3.png  used on input line 565.
+(pdftex.def)             Requested size: 252.0pt x 42.21448pt.
+ [4]
+<figures/fig4.png, id=251, 512.91624pt x 524.96124pt>
+File: figures/fig4.png Graphic file (type png)
+<use figures/fig4.png>
+Package pdftex.def Info: figures/fig4.png  used on input line 574.
+(pdftex.def)             Requested size: 252.0pt x 257.92213pt.
+ [5 <./figures/fig2.png> <./figures/fig3.png> <./figures/fig4.png>]
+<figures/fig5.png, id=269, 827.09pt x 475.7775pt>
+File: figures/fig5.png Graphic file (type png)
+<use figures/fig5.png>
+Package pdftex.def Info: figures/fig5.png  used on input line 592.
+(pdftex.def)             Requested size: 252.0pt x 144.95583pt.
+<figures/tab1.png, id=275, 865.2325pt x 353.32pt>
+File: figures/tab1.png Graphic file (type png)
+<use figures/tab1.png>
+Package pdftex.def Info: figures/tab1.png  used on input line 615.
+(pdftex.def)             Requested size: 252.0pt x 102.90225pt.
+<figures/tab2.png, id=279, 899.36pt x 338.26375pt>
+File: figures/tab2.png Graphic file (type png)
+<use figures/tab2.png>
+Package pdftex.def Info: figures/tab2.png  used on input line 626.
+(pdftex.def)             Requested size: 252.0pt x 94.78029pt.
+
+[6 <./figures/fig5.png> <./figures/tab1.png>]
+<figures/fig6.png, id=290, 610.28pt x 426.59375pt>
+File: figures/fig6.png Graphic file (type png)
+<use figures/fig6.png>
+Package pdftex.def Info: figures/fig6.png  used on input line 636.
+(pdftex.def)             Requested size: 252.0pt x 176.15434pt.
+<figures/fig7.png, id=292, 613.29124pt x 416.55624pt>
+File: figures/fig7.png Graphic file (type png)
+<use figures/fig7.png>
+Package pdftex.def Info: figures/fig7.png  used on input line 643.
+(pdftex.def)             Requested size: 252.0pt x 171.16417pt.
+<figures/fig8.png, id=294, 565.11125pt x 340.27126pt>
+File: figures/fig8.png Graphic file (type png)
+<use figures/fig8.png>
+Package pdftex.def Info: figures/fig8.png  used on input line 650.
+(pdftex.def)             Requested size: 252.0pt x 151.73434pt.
+<figures/fig9.png, id=299, 651.43375pt x 323.2075pt>
+File: figures/fig9.png Graphic file (type png)
+<use figures/fig9.png>
+Package pdftex.def Info: figures/fig9.png  used on input line 660.
+(pdftex.def)             Requested size: 252.0pt x 125.02954pt.
+<figures/fig10.png, id=301, 629.35126pt x 351.3125pt>
+File: figures/fig10.png Graphic file (type png)
+<use figures/fig10.png>
+Package pdftex.def Info: figures/fig10.png  used on input line 667.
+(pdftex.def)             Requested size: 252.0pt x 140.66724pt.
+ [7 <./figures/tab2.png> <./figures/fig6.png> <./figures/fig7.png> <./figures/f
+ig8.png>]
+<figures/fig11.png, id=315, 1098.1025pt x 705.63625pt>
+File: figures/fig11.png Graphic file (type png)
+<use figures/fig11.png>
+Package pdftex.def Info: figures/fig11.png  used on input line 676.
+(pdftex.def)             Requested size: 252.0pt x 161.92683pt.
+<figures/fig12.png, id=318, 654.445pt x 396.48125pt>
+File: figures/fig12.png Graphic file (type png)
+<use figures/fig12.png>
+Package pdftex.def Info: figures/fig12.png  used on input line 685.
+(pdftex.def)             Requested size: 252.0pt x 152.66692pt.
+
+Underfull \hbox (badness 4217) in paragraph at lines 686--686
+[]\OT1/ptm/m/n/10 Fig. 14: |La-tency for in-creas-ing NF chain, Net-Bricks
+ []
+
+<figures/fig13.png, id=320, 663.47874pt x 388.45125pt>
+File: figures/fig13.png Graphic file (type png)
+<use figures/fig13.png>
+Package pdftex.def Info: figures/fig13.png  used on input line 692.
+(pdftex.def)             Requested size: 252.0pt x 147.54187pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [8 <./figures/fig9.png> <./figures/fig10.png> <./figures/fig11.png> <./figures
+/fig12.png>]
+Underfull \hbox (badness 2600) in paragraph at lines 702--703
+[]\OT1/ptm/m/n/10 In terms of the ex-e-cu-tion model, NetVM [[]8[]] is a
+ []
+
+<figures/fig14.png, id=344, 654.445pt x 200.75pt>
+File: figures/fig14.png Graphic file (type png)
+<use figures/fig14.png>
+Package pdftex.def Info: figures/fig14.png  used on input line 707.
+(pdftex.def)             Requested size: 252.0pt x 77.2997pt.
+(./main.bbl [9 <./figures/fig13.png> <./figures/fig14.png>]
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 56.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omsptm.fd
+File: omsptm.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <8> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 56.
+
+Underfull \hbox (badness 2173) in paragraph at lines 177--183
+[]\OT1/ptm/m/n/8 C. S. Gor-don, M. J. Parkin-son, J. Par-sons,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--183
+[]$\OT1/ptm/m/n/8 http : / / delivery . acm . org / 10 . 1145 / 2390000 / 23846
+19 / p21-[]gordon . pdf ? ip =
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--183
+\OT1/ptm/m/n/8 131 . 234 . 217 . 85\OMS/cmsy/m/n/8 f\OT1/ptm/m/n/8 & [] id = 23
+84619\OMS/cmsy/m/n/8 f\OT1/ptm/m/n/8 & [] acc = ACTIVESERVICE\OMS/cmsy/m/n/8 f\
+OT1/ptm/m/n/8 & [] key =
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--183
+\OT1/ptm/m/n/8 2BA2C432AB83DA15 . FF86995C7D80A64D . 4D4702B0C3E38B35 .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--183
+\OT1/ptm/m/n/8 4D4702B0C3E38B35\OMS/cmsy/m/n/8 f\OT1/ptm/m/n/8 & [] \OMS/cmsy/m
+/n/8 f[] [] f[] [] \OT1/ptm/m/n/8 acm\OMS/cmsy/m/n/8 f[] [] f[] [] \OT1/ptm/m/n
+/8 =1555440985\OMS/cmsy/m/n/8 f[] []
  []
 
 )
@@ -872,42 +1004,34 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 516.
-[2
-
-]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 516.
+[10]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 723.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 723.
  (./main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 516.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 516.
-
-
-Package rerunfilecheck Warning: File `main.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: 871B6CC1C3F31DE2EFA77F2C9D5F0C25;2122
-(rerunfilecheck)             After:  44AB41D8F90468CCEF8B02A007993C23;2132.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 516.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 723.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 723.
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: ACB943B8B667296B4E32897F6313EEF9;2690.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 723.
  ) 
 Here is how much of TeX's memory you used:
- 20043 strings out of 492701
- 368318 string characters out of 6134504
- 454360 words of memory out of 5000000
- 23522 multiletter control sequences out of 15000+600000
- 43869 words of font info for 98 fonts, out of 8000000 for 9000
+ 20197 strings out of 492701
+ 370771 string characters out of 6134504
+ 459716 words of memory out of 5000000
+ 23620 multiletter control sequences out of 15000+600000
+ 44976 words of font info for 99 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 62i,14n,56p,414b,477s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 62i,14n,77p,2115b,387s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
-e/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf
--dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/typ
-e1/urw/times/utmbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/u
-tmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (2 pages, 65766 bytes).
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/
+fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw
+/times/utmbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.
+pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (10 pages, 689944 bytes).
 PDF statistics:
- 254 PDF objects out of 1000 (max. 8388607)
- 242 compressed objects within 3 object streams
- 61 named destinations out of 1000 (max. 500000)
- 277 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 460 PDF objects out of 1000 (max. 8388607)
+ 421 compressed objects within 5 object streams
+ 98 named destinations out of 1000 (max. 500000)
+ 405 words of extra memory for PDF output out of 10000 (max. 10000000)
 

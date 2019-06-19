@@ -29,10 +29,11 @@ A.~Panda, S.~Han, K.~Jang, M.~Walls, S.~Ratnasamy, and S.~Shenker,
   \url{https://www.usenix.org/conference/osdi16/technical-sessions/presentation/panda}
 \BIBentrySTDinterwordspacing
 
-\bibitem{yxcv}
+\bibitem{Panda2017}
 \BIBentryALTinterwordspacing
-``{Linux Foundation. OPNFV}.'' [Online]. Available:
-  \url{https://www.opnfv.org/}
+A.~Panda, ``{A New Approach to Network Function Virtualization},'' Tech. Rep.,
+  2017. [Online]. Available:
+  \url{https://cloudfront.escholarship.org/dist/prd/content/qt638687x3/qt638687x3.pdf?t=p2rjwy}
 \BIBentrySTDinterwordspacing
 
 \bibitem{Yaghoubi2012}
@@ -41,14 +42,6 @@ H.~Yaghoubi, N.~Barazi, and M.~Reza, ``{Maglev: A Fast and Reliable Software
   Network Load Balancer },'' in \emph{Infrastructure Design, Signalling and
   Security in Railway}, 2012, pp. 523--535. [Online]. Available:
   \url{https://www.usenix.org/conference/nsdi16/technical-sessions/presentation/eisenbud}
-\BIBentrySTDinterwordspacing
-
-\bibitem{Sekar2012}
-\BIBentryALTinterwordspacing
-V.~Sekar, N.~Egi, S.~Ratnasamy, M.~K. Reiter, and G.~Shi, ``{Design and
-  Implementation of a Consolidated Middlebox Architecture},'' in \emph{Proc.
-  USENIX NSDI}, 2012, p.~24. [Online]. Available:
-  \url{https://www.usenix.org/conference/nsdi12/technical-sessions/presentation/sekar}
 \BIBentrySTDinterwordspacing
 
 \bibitem{ETSI2012}
@@ -62,13 +55,6 @@ ETSI, ``{Network Functions Virtualisation,An Introduction, Benefits, Enablers,
 \BIBentryALTinterwordspacing
 I.~Corporation, ``{Intel {\textregistered} Data Plane Development Kit},'' no.
   June, 2014. [Online]. Available: \url{https://www.dpdk.org/}
-\BIBentrySTDinterwordspacing
-
-\bibitem{Thadani1995}
-\BIBentryALTinterwordspacing
-M.~Thadani, ``{An efficient zero-copy I/O framework for UNIX},'' Tech. Rep.
-  May, 1995. [Online]. Available:
-  \url{https://dl.acm.org/citation.cfm?id=974947}
 \BIBentrySTDinterwordspacing
 
 \bibitem{TheRustTeam2016}
@@ -85,14 +71,6 @@ J.~W. Anderson, R.~Braud, R.~Kapoor, G.~Porter, and A.~Vahdat, ``{xOMB:
   communications systems - ANCS '12}.\hskip 1em plus 0.5em minus 0.4em\relax
   ACM Press, 2012, p.~49. [Online]. Available:
   \url{http://dl.acm.org/citation.cfm?doid=2396556.2396566}
-\BIBentrySTDinterwordspacing
-
-\bibitem{Sekar2012a}
-\BIBentryALTinterwordspacing
-V.~Sekar, N.~Egi, S.~Ratnasamy, M.~K. Reiter, and G.~Shi, ``{Design and
-  Implementation of a Consolidated Middlebox Architecture},'' in \emph{Proc.
-  USENIX NSDI}, 2012, p.~24. [Online]. Available:
-  \url{https://www.usenix.org/conference/nsdi12/technical-sessions/presentation/sekar}
 \BIBentrySTDinterwordspacing
 
 \bibitem{Hwang2015}
@@ -147,23 +125,6 @@ P.~Naik, A.~Kanase, T.~Patel, and M.~Vutukuru, ``{libVNF: A Framework for
   \url{http://dl.acm.org/citation.cfm?doid=3124680.3124728}
 \BIBentrySTDinterwordspacing
 
-\bibitem{Mao2019}
-\BIBentryALTinterwordspacing
-W.~Mao, Z.~Shen, and X.~Huang, ``{Facilitating Network Functions Virtualization
-  by Exploring Locality in Network Traffic},'' in \emph{Proceedings of the 2018
-  2nd International Conference on Computer Science and Artificial Intelligence
-  - CSAI '18}.\hskip 1em plus 0.5em minus 0.4em\relax ACM Press, 2019, pp.
-  495--499. [Online]. Available:
-  \url{http://dl.acm.org/citation.cfm?doid=3297156.3297247}
-\BIBentrySTDinterwordspacing
-
-\bibitem{Wu2017}
-\BIBentryALTinterwordspacing
-W.~Wu and Y.~Zhang, ``{Network function modeling and its applications},''
-  \emph{IEEE Internet Computing}, vol.~21, no.~4, pp. 82--86, 2017. [Online].
-  Available: \url{http://ieeexplore.ieee.org/document/7994546/}
-\BIBentrySTDinterwordspacing
-
 \bibitem{Duan2019}
 \BIBentryALTinterwordspacing
 J.~Duan, X.~Yi, J.~Wang, C.~Wu, and F.~Le, ``{NetStar: A Future/Promise
@@ -175,10 +136,9 @@ J.~Duan, X.~Yi, J.~Wang, C.~Wu, and F.~Le, ``{NetStar: A Future/Promise
 \bibitem{Yasukata2017}
 \BIBentryALTinterwordspacing
 K.~Yasukata, F.~Huici, V.~Maffione, G.~Lettieri, and M.~Honda, ``{HyperNF:
-  building a high performance, high utilization and fair NFV platform},'' in
-  \emph{Proceedings of the 2017 Symposium on Cloud Computing - SoCC '17}.\hskip
-  1em plus 0.5em minus 0.4em\relax ACM Press, 2017, pp. 157--169. [Online].
-  Available: \url{http://dl.acm.org/citation.cfm?doid=3127479.3127489}
+  building a high performance, high utilization and fair NFV platform},'' pp.
+  157--169, 2017. [Online]. Available:
+  \url{http://dl.acm.org/citation.cfm?doid=3127479.3127489}
 \BIBentrySTDinterwordspacing
 
 \bibitem{Poddar2018}
@@ -191,33 +151,87 @@ R.~Poddar, C.~Lan, R.~A. Popa, and S.~Ratnasamy, ``{SafeBricks: Shielding
 \bibitem{Yurchenko2018}
 \BIBentryALTinterwordspacing
 M.~Yurchenko, P.~Cody, A.~Coplan, R.~Kennedy, T.~Wood, and K.~K. Ramakrishnan,
-  ``{OpenNetVM},'' in \emph{Proceedings of the 2016 workshop on Hot topics in
-  Middleboxes and Network Function Virtualization}.\hskip 1em plus 0.5em minus
-  0.4em\relax ACM, 2018, pp. 1--2. [Online]. Available:
+  ``{OpenNetVM: A Platform for High Performance Network Service Chains},'' in
+  \emph{Proceedings of the 2016 workshop on Hot topics in Middleboxes and
+  Network Function Virtualization}.\hskip 1em plus 0.5em minus 0.4em\relax ACM,
+  2018, pp. 1--2. [Online]. Available:
   \url{https://dl.acm.org/citation.cfm?id=2940155}
 \BIBentrySTDinterwordspacing
 
 \bibitem{Zhang2018}
 \BIBentryALTinterwordspacing
-K.~Zhang, B.~He, Z.~Wang, B.~Hua, J.~Meng, S.~Design, and I.~Nsdi, ``{G-NET :
-  Effective GPU Sharing in NFV Systems},'' 2018. [Online]. Available:
+``{G-NET : Effective GPU Sharing in NFV Systems},'' 2018. [Online]. Available:
   \url{https://www.usenix.org/conference/nsdi18/presentation/zhang-kai}
 \BIBentrySTDinterwordspacing
 
 \bibitem{Kohler2000}
 \BIBentryALTinterwordspacing
 E.~Kohler, R.~Morris, B.~Chen, J.~Jannotti, and M.~F. Kaashoek, ``{The click
-  modular router},'' \emph{ACM Transactions on Computer Systems}, vol.~18,
-  no.~3, pp. 263--297, aug 2000. [Online]. Available:
+  modular router},'' \emph{ACM Transactio@book{Gordon, }ns on Computer
+  Systems}, vol.~18, no.~3, pp. 263--297, aug 2000. [Online]. Available:
   \url{http://portal.acm.org/citation.cfm?doid=354871.354874}
 \BIBentrySTDinterwordspacing
 
-\bibitem{McKeen2013}
+\bibitem{Gordon}
 \BIBentryALTinterwordspacing
-F.~McKeen, I.~Alexandrovich, A.~Berenzon, C.~V. Rozas, H.~Shafi, V.~Shanbhogue,
-  and U.~R. Savagaonkar, ``{Innovative instructions and software model for
-  isolated execution},'' pp. 1--1, 2013. [Online]. Available:
-  \url{https://www.eit.lth.se/fileadmin/eit/courses/eitn50/Literature/hasp-2013-innovative-instructions-and-software-model-for-isolated-execution.pdf}
+C.~S. Gordon, M.~J. Parkinson, J.~Parsons, A.~Bromfield, and J.~Duffy,
+  \emph{{Uniqueness and Reference Immutability for Safe Parallelism}}.
+  [Online]. Available:
+  \url{http://delivery.acm.org/10.1145/2390000/2384619/p21-gordon.pdf?ip=131.234.217.85{\&}id=2384619{\&}acc=ACTIVE
+  SERVICE{\&}key=2BA2C432AB83DA15.FF86995C7D80A64D.4D4702B0C3E38B35.4D4702B0C3E38B35{\&}{\_}{\_}acm{\_}{\_}=1555440985{\_}bd2f52b0356eb72dfbe525781e0ad38f}
+\BIBentrySTDinterwordspacing
+
+\bibitem{Lattner}
+\BIBentryALTinterwordspacing
+C.~Lattner and V.~Adve, ``{LLVM: A compilation framework for lifelong program
+  anailysis {\&} transformation},'' in \emph{International Symposium on Code
+  Generation and Optimization, 2004. CGO 2004.}\hskip 1em plus 0.5em minus
+  0.4em\relax IEEE, pp. 75--86. [Online]. Available:
+  \url{http://ieeexplore.ieee.org/document/1281665/}
+\BIBentrySTDinterwordspacing
+
+\bibitem{Han:EECS-2015-155}
+\BIBentryALTinterwordspacing
+S.~Han, K.~Jang, A.~Panda, S.~Palkar, D.~Han, and S.~Ratnasamy, ``Softnic: A
+  software nic to augment hardware,'' EECS Department, University of
+  California, Berkeley, Tech. Rep. UCB/EECS-2015-155, May 2015. [Online].
+  Available:
+  \url{http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-155.html}
+\BIBentrySTDinterwordspacing
+
+\bibitem{Gross2014}
+\BIBentryALTinterwordspacing
+J.~Gross, ``{The Evolution of Open vSwitch LinuxCon 2014},'' Tech. Rep., 2014.
+  [Online]. Available:
+  \url{https://events.static.linuxfound.org/sites/events/files/slides/Evolution
+  of OVS.pdf}
+\BIBentrySTDinterwordspacing
+
+\bibitem{Roesch}
+\BIBentryALTinterwordspacing
+M.~Roesch, ``{Snort-Lightweight Intrusion Detection for Networks},'' Tech. Rep.
+  [Online]. Available:
+  \url{https://www.usenix.org/legacy/event/lisa99/full{\_}papers/roesch/roesch.pdf}
+\BIBentrySTDinterwordspacing
+
+\bibitem{Abdul}
+\BIBentryALTinterwordspacing
+A.~Alim, R.~G. Clegg, L.~Mai, L.~Rupprecht, E.~Seckler, P.~Costa, P.~Pietzuch,
+  A.~L. Wolf, N.~Sultana, J.~Crowcroft, A.~Madhavapeddy, A.~W. Moore,
+  R.~Mortier, M.~Koleni, L.~Oviedo, M.~Migliavacca, and D.~McAuley, ``{FLICK}:
+  Developing and running application-specific network services,'' in \emph{2016
+  {USENIX} Annual Technical Conference ({USENIX} {ATC} 16)}.\hskip 1em plus
+  0.5em minus 0.4em\relax Denver, CO: {USENIX} Association, 2016, pp. 1--14.
+  [Online]. Available:
+  \url{https://www.usenix.org/conference/atc16/technical-sessions/presentation/alim}
+\BIBentrySTDinterwordspacing
+
+\bibitem{Sekar}
+\BIBentryALTinterwordspacing
+V.~Sekar, N.~Egi, S.~Ratnasamy, M.~K. Reiter, and G.~Shi, ``{Design and
+  Implementation of a Consolidated Middlebox Architecture},'' Tech. Rep.
+  [Online]. Available:
+  \url{https://www.usenix.org/system/files/conference/nsdi12/nsdi12-final96.pdf}
 \BIBentrySTDinterwordspacing
 
 \end{thebibliography}
