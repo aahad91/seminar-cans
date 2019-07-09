@@ -1,0 +1,114 @@
+1.) Author of the report: Abdul Ahad Ayaz
+2.) Title of the report: Analysis of Isolation (memory/packet) in NFV
+3.) What did you like about the report?
+a. The whole content is properly referenced for each of the ideas proposed, the terms stated, etc.
+b. The sections are sorted out really well.
+c. The format of the paper is good.
+
+4.) What did you not like?
+a. The content written in the section "Background" is not actually helping the context for the other sections.
+b. It has to be properly referenced who performed the experiments and obtained the results.
+
+5.) How could the writeup be improved?
+a. Few of the grammatical mistakes are to be corrected.
+b. The conclusion can be drawn from what the paper describes on the whole.
+c. writing style can be improved.
+b. Some gaps between the topics are to be overcome by describing the content in much simpler sentences.
+
+
+
+
+
+1.) Author of the report: Abdul Ahad Ayaz
+2.) Title of the report: AINFV: Analysis of Isolation (memory/packet) in Network Function Virtualization
+3.) What did you like about the report?
+- The format looks very much like a conference paper, the text is well formatted.
+- The description is very detailed. The reference paper [1] is described in a very detailed way, and aspects of the presented framework are compared to other frameworks.
+- Everything that is not listed in 4). I think that it is more useful to list things that were not so nice (and need some work) than listing things that already are good.
+
+4.) What did you not like?
+- Many grammar, punctuation and spelling mistakes. Most prominent:
+ - Missing punctuations
+ - Missing or too many articles ("the", "a", ...)
+ - Singular/plural mismatch (between subject and verb, or in conjunction with a missing article, ...)
+ - Incomplete sentences
+
+- I didn't understand all the sentences. Maybe you could try to simplify the structure of some paragraphs
+- It is sometimes hard to follow the very long paragraphs. You should consider to split them into shorter paragraphs
+- It looks like you tried to fit as much information as possible into the report. It might be better to drop some of the information and explain the remaining stuff better. Many of the described details are not needed for the comparison of the frameworks in the end, and very hard to remember (is it really important that they used an "Intel Xeon E5-2660 2.6GHz CPU"?).
+
+- The style is not consistent throughout the whole report.
+ - Sometimes you use [MeaningfulAbbreviation] and sometimes number [4] for reference.
+ - You sometimes write abbreviations ("NF") and then again the long form ("network function").
+ - You sometimes use bullet points within a single sentence in a continuous text (which I don't like) and sometimes (a), (b) and (c) and then don't refer to it.
+ - The figures show up in a different order than they are mentioned in the text.
+ - ...
+
+- Abstract and Conclusion are missing, future work not needed
+- You write "Proposed Framework". Did you propose this? I guess "NetBricks" was there before you wrote the report
+- Things that I didn't get while reading (among others):
+ - What do the numbers in the results section mean? Is 16.15µs good? Is a difference of 0.1 MPPS (0.01µs) noise or not? What is the impact on / meaning for the overall performance?
+ - What is the "merge model"?
+ - What are "some modifications" that SafeBricks made?
+ - Many things were not completely clear to me, but this might be caused by a sometimes hard to follow sentence and paragraph structure and grammar mistakes.
+ - ...
+
+5.) How could the writeup be improved?
+I listed some rules that I'm following and you violated. Some of them depend on the style that you want to use, so don't take this too seriously. The most important point is that you make it consistent.
+
+- "e.g." and "i.e.":
+ - enclose abbreviations like "i.e." or "e.g." in commas. For example: "[...] many network services were introduced, e.g., routing, forwarding [...]". You can use a comma only in front of the abbreviation or both in front and behind it (See https://www.dailywritingtips.com/comma-after-i-e-and-e-g/)
+ - "i.e." means "this means" / "in other words" and "e.g." means "for example". You sometimes used them the wrong way around / in wrong places.
+
+- "etc":
+ - use a comma in front of "etc." (see https://www.grammarly.com/blog/et-cetera-etc/)
+ - Don't use "and" and "ect." in the same enumeration
+
+- Acronyms:
+ - This depends on the style, but I prefer to use ~\gls{...}~ for acronyms and first print the long version and then the abbreviation. This means "a Virtual Machine (VM)" instead of "a VM (Virtual Machine)". In my opinion, this makes it easier to follow, because you already know the long version when the abbreviation appears in the text. (https://www.e-education.psu.edu/styleforstudents/c2_p9.html)
+ - Acronyms should be defined on their *first usage* (You defined DPDK on its second usage)
+ - Use the short version of acronyms everywhere where possible. You sometimes write "network function" and sometimes "NF".
+
+- Enumerations:
+ - don't use bullet points in text. They can be used in lists for separate items, but are confusing within a block of text. It is not clear where the last bullet point ends. You can use letters or numbers like "[Novel approach]: a) inflexibility: [...], b) Non-Scalability: [...], c) [...]" if you reference them later, or just remove the enumeration signs entirely
+ - If you use letters to identify elements in enumerations, use them later to refer to the mentioned elements. Otherwise the is no reason for the identifiers to exist.
+
+- References / Citations:
+ - Use the same style for references, e.g., "[Number]" or "[Some Meaningful Abbreviation]", but not a mix of both. And make sure that they all appear in the reference section.
+ - The reference entry for "The click modular router" is broken
+
+- Figures / Tables
+ - Put a (unbreakable) space between "fig." and the figure number like fig.~\ref{fig:...}
+ - Headings of tables should be placed above the table and headings of figures below them (I think this is Chicago Manual of Style)
+
+- Use a consistent tense throughout the whole paper (E.g, you wrote both "the author provides" and "the author provided")
+- Use a comma after "Hence", "Traditionally", "As mentioned before", ... at the beginning of a sentence
+- I like page numbers. The templates for conference/journal papers usually don't include them because they are added later, but in this case, page numbers would be helpful.
+- Divide the text into more (shorter) paragraphs
+- "NetBricks" is a name. You wouldn't use "the" in front of your own name, would you?
+- Use units like "µs" instead of writing out "microseconds". Use, e.g., the latex package "siunitx" with ~\SI{16.16}{\micro\second}~.
+- It sometimes is not considered a good style to use the possessive s ("NetBrick's throughput"). Use "the throughput of NetBrick" instead. (https://www.quora.com/Should-I-avoid-using-s-as-the-possessive-form-in-scientific-papers-but-the-of-form)
+- Be consistent
+
+
+
+
+
+
+Author of the report: Abdul Ahad Ayaz
+
+Title of the report: AINFV: Analysis of Isolation (memory/packet) in Network Function Virtualization
+
+What did you like about the report?
+
+What did you not like? And How could the writeup be improved?
+—————————————————————————————————————————————————————————————
+
+- Ensure correct use of cross-references of citation, itemize etc.
+
+- Is separate section “Problem statement” required under introduction section?
+
+- How is background section different from introduction section? and is the text/context in background section relevant?
+
+* Text is copied from original paper e.g., IV-A, IV-B etc.?
+
