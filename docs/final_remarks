@@ -1,0 +1,45 @@
+Hi
+
+some feedback.
+
+Grade: 2,0
+
+
+Best
+
+HK
+
+
+Comments:
+- Slides were OK’ish and, overall, the presentation could have been more convincing so I feel that he hasn’t done justice to the topic.
++ Overview of software isolation techniques was described briefly but any example(s) would have helped to establish clarity.
+- There was lack of understanding in some parts (as evident during QA session e.g., running multiple NFs in a single thread and argument to run them over single- and multi-core system).
++ Concluded fine with couple of open problems.
+
+
+- High-level NFV introduction not too bad
+- Slides maybe a bit too superficial ? A lot of content on slide 2
+  bullets that might have profited from more text on slide
+- I did not really get the big picture problem statement. Basically
+  rehashing the netbrick intro?
+- Good outline description
+- Technical details on Executing, isolation; I did not really
+  understand the challenge.
+- Oh ok, results first then details. unconventional.
+- What does softwrfae isolation mean? how do you get memory isolation
+  like that?
+- how to get zerocopy like that?
+- single thread useful? I did not get that.
+- why does TTL drop when moving between NFs? Just in this example?
+  - suddenly multi-core? NF chain apples/oranages comparison? (no, but
+    still nasty question?)
+
+- Hints
+  - "Moving on" clearly overused!
+  - space before citations!
+  - No hyphen between "three cores" etc.
+  - Consistent capitalization!
+  - NO RELATED WORK in seminar talks; this makes no sense! You are not
+    supposed to put that one starting paper on the spot and take its
+    position! (I had pointed this out so many times!)
+
